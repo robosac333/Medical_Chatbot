@@ -104,4 +104,4 @@ Additional libraries and tools:
 
 --- 
 
-Thank you for exploring the RAG Chatbot Research Project!
+Thank you for exploring the Medical Chatbot Project!
